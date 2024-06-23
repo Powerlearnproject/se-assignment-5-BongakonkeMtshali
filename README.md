@@ -261,5 +261,5 @@ The first time you push to GitHub, VS Code may prompt you to authenticate source
 - Your answers should be well-structured, concise, and to the point.
 - Provide screenshots or step-by-step instructions where applicable.
 - Cite any references or sources you use in your answers.
-- Submit your completed assignment by 1st July 
+- Submit your completed assignment by 1st July gi
 
